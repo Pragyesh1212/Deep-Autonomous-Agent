@@ -27,7 +27,7 @@ st.set_page_config(
 
 )
 
-st.title("🤖 Deep Autonomous Agent")
+st.title("Deep Autonomous Agent")
 
 # ----------------------------------------------------
 # Initialize Chats
