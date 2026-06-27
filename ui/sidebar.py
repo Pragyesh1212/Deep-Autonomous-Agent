@@ -29,7 +29,7 @@ def show_sidebar(result=None):
 
     with st.sidebar:
 
-        st.title("🤖 Deep Autonomous Agent")
+        st.title("Deep Autonomous Agent")
 
         # -------------------------------------
         # New Chat
