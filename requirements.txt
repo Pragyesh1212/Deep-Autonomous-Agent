@@ -1,0 +1,15 @@
+langchain
+
+langgraph
+
+langchain-openai
+
+langchain-groq
+
+langsmith
+
+streamlit
+
+python-dotenv
+
+typing_extensions
